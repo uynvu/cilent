@@ -1,0 +1,5 @@
+D:\Lập trình mạng\cilent\cilent\bin\Debug\cilent.exe.config
+D:\Lập trình mạng\cilent\cilent\bin\Debug\cilent.exe
+D:\Lập trình mạng\cilent\cilent\bin\Debug\cilent.pdb
+D:\Lập trình mạng\cilent\cilent\obj\Debug\cilent.exe
+D:\Lập trình mạng\cilent\cilent\obj\Debug\cilent.pdb
