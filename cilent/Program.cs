@@ -53,6 +53,10 @@ namespace cilent
 
             catch (Exception ex)
             {
+                StringBuilder sb = new StringBuilder();
+                sb.Append(";Disconnect At: " + DateTime.Now + ";" + "Reason: Closed By Server\n");
+                File.AppendAllText("D://Access.log", sb.ToString());
+                sb.Clear();
                 Console.WriteLine("Error: " + ex);
             }
 
